@@ -1,0 +1,27 @@
+body {
+	background-color: red;
+	text-align: center;
+	font-family: Arial;
+	color: rgb(204, 206, 206);
+}
+
+h1,
+h2	{
+	color: black;
+}
+
+h1	{
+	font-size: 50px;
+}
+
+h2	{
+	font-size: 32px;
+}
+li {
+	text-align: left;
+}
+
+img	{
+	width: 500px;
+	height: auto;
+}
